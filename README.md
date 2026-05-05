@@ -369,7 +369,3 @@ If you found this project useful, consider giving it a **star** on GitHub!
 
 ---
 
-([youtube.com][1])
-
-[1]: https://www.youtube.com/watch?v=RtMezvuOKE0&utm_source=chatgpt.com "Build Money Manager with React + Spring Boot + MySQL ..."
-
